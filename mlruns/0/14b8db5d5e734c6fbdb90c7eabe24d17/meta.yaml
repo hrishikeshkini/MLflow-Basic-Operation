@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hrishikesh%20Kini/Documents/MLFlow%20Project/mlruns/0/14b8db5d5e734c6fbdb90c7eabe24d17/artifacts
+end_time: 1704625358896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14b8db5d5e734c6fbdb90c7eabe24d17
+run_name: rumbling-wasp-600
+run_uuid: 14b8db5d5e734c6fbdb90c7eabe24d17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704625313241
+status: 3
+tags: []
+user_id: Hrishikesh Kini

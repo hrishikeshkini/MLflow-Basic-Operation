@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hrishikesh%20Kini/Documents/MLFlow%20Project/mlruns/0/43498de9c8c94dbaadda1697c93860ff/artifacts
+end_time: 1704625103933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43498de9c8c94dbaadda1697c93860ff
+run_name: chill-rat-289
+run_uuid: 43498de9c8c94dbaadda1697c93860ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704625089377
+status: 3
+tags: []
+user_id: Hrishikesh Kini
