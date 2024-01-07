@@ -127,6 +127,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.mlflow
+mlflow
+mlflow/
+.mlflow/
 
 # Spyder project settings
 .spyderproject
